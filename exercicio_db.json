@@ -1,0 +1,26 @@
+[
+    {
+        "Banco":{
+            "NumBanco": "Number",
+            "Agencia": "Number",
+            "TipoConta": "string",
+            "Conta": "Number"
+        },
+        "Cliente":{
+            "ID": "Number",
+            "Nome": "string"
+            
+        },
+        "Extrato":{
+            "TipoLancamento": "string",
+            "CodLancamento": "Number",
+            "Valor": "Number"
+        },
+
+            "TotalValor": "Number",
+            "Data": "string"
+        
+
+    }
+
+]
